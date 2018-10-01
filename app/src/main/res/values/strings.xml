@@ -1,3 +1,15 @@
 <resources>
-    <string name="app_name">Mob_Labs</string>
+    <string name="app_name">MobileDevelopment</string>
+    <string name="name">Input your name</string>
+    <string name="clear_message">Clear</string>
+    <string name="say_hello">Say Hello</string>
+    <string name="hello">Hello</string>
+    <string name="next_lab">Next lab</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="submit_data">Submit</string>
 </resources>
