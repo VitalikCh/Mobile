@@ -26,9 +26,8 @@ before_script:
     - chmod +x gradlew
 
 script:
-   - ./gradlew connectedAndroidTest
    - ./gradlew assembleDebug
-   - if [[ $LINT == 'true' ]]; then ./gradlew lint ; fi
+  
 
 install: true
 
